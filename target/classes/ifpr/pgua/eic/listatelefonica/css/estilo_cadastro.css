@@ -1,5 +1,5 @@
 *{
-    -fx-cor-base:green;
+    -fx-cor-base:rgb(0, 0, 0);
 }
 
 .root{
@@ -13,7 +13,7 @@
 
 .button{
     -fx-background-radius:20;
-    -fx-background-color:black;
+    -fx-background-color:linear-gradient(red, blue);
     -fx-text-fill: white;
 
 }

@@ -1,10 +1,11 @@
 .text-field{
     -fx-background-radius:20;
-    -fx-background-color: rgb(0, 221, 255);
+    -fx-border-color:black;
+    -fx-background-color: rgb(255, 255, 255);
 }
 
 .button{
     -fx-background-radius:20;
-    -fx-background-color:rgb(191, 76, 76);
+    -fx-background-color:linear-gradient(red, blue);
     -fx-text-fill: white;
 }

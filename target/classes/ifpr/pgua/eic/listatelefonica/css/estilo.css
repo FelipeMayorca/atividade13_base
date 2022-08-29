@@ -1,11 +1,13 @@
 .root{
-    -fx-background-color:orange;
+    -fx-background-image: url("Screenshot_378.png");
+    -fx-background-position: center;
 }
 
 .button{
-    -fx-background-color:yellow;
+    -fx-background-color:linear-gradient(red, blue);
+    -fx-text-fill: white;
 }
 
 .botao-limpar{
-    -fx-background-color:red;
+    -fx-background-color:linear-gradient(red, blue);
 }
